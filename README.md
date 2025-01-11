@@ -1,4 +1,4 @@
- Oyun Projesi
+🎮 Oyun Projesi
 Bu proje, Devran Candan tarafından Kodpit Teknoloji için hazırlanmış ve Unity üzerinde kodlanmış bir oyun projesidir.
 
  Proje Hakkında
