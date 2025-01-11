@@ -8,4 +8,7 @@ Bu proje, temel bir oyun geliştirme sürecini içermekte olup, Unity oyun motor
 Unity (2022.3 LTS)
 C# programlama dili
 
-
+🚀 Nasıl Çalıştırılır?
+Unity oyun motorunu bilgisayarınıza yükleyin.
+Proje klasörünü Unity ile açın.
+Game sekmesinden oyunu çalıştırmak için "Play" butonuna basın.
